@@ -45,7 +45,8 @@ A dynamic LoRA loader with **toggle on/off functionality** for ComfyUI-WanVideoW
 
 ## Future Development
 
-- Support `merge_loras` and `low_mem_load` settings.
+- Support `merge_loras` and `low_mem_load` settings
+- PR Request to WanVideoWrapper if this nodes driven by the community
 
 
 ## License
