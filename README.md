@@ -15,6 +15,10 @@ A dynamic LoRA loader with **toggle on/off functionality** for ComfyUI-WanVideoW
 
 1. git clone this repo to `custom_nodes` directory:
    ```
+   git clone https://github.com/vAnNN47/WanVideoPowerLora
+   ```
+
+   ```
    ComfyUI/custom_nodes/wanvideo-power-lora-loader/
    ```
 
